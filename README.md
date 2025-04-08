@@ -14,64 +14,48 @@ borodin.eu@gmail.com | @GenieBorodin | [LinkedIn](https://www.linkedin.com/in/ev
 **Full-stack Developer at Command F5**<br>
 Cheboksary, Chuvashia, Russia (Remote) | Aug 2021 - Present | 3 yrs 9 mos<br>
 
-Our team is working on ERP system.
-        Stack:
-        - 
-        Main duties:
-        - interface modules implementation (front-end)
-        - API implementation (back-end)
-        - business logic implementation (back-end)
-        - database migrations implementation (back-end)
-        - working with bug reports (back-end)
-        - code-review
-        - making changes in Docker containers 
-        - unit tests implementation with Jest
-        Achievements:
-        - Drag-n-drop for elements on kanban-board for better UX with planning
-        - Implementation component with ApexCharts showing Gantt diagram for understanding bottlenecks
-        - Switch web part from CRA to Vite.js to accelerate compilation of the app in dev runtimeOur team is working on ERP system. Stack: - Docker - Typescript - Node.JS (back-end) - Express.js (back-end) - TypeORM (back-end) - TypeGraphQL (back-end) - ApolloServer (back-end) - PostgreSQL (back-end) - Redis (back-end) - Websockets (back-end, front-end) - React.js (front-end) - Apollo Client (front-end) - Ag-Grid (front-end) - ApexCharts (front-end) - Material-UI (front-end) - Formik (front-end) - Date-fns (front-end) - Yup (front-end) - ReactFlow (front-end) - Recoil (front-end) - Vite.js (front-end) Main duties: - interface modules implementation (front-end) - API implementation (back-end) - business logic implementation (back-end) - database migrations implementation (back-end) - working with bug reports (back-end) - code-review - making changes in Docker containers - unit tests implementation with Jest Achievements: - Drag-n-drop for elements on kanban-board for better UX with planning - Implementation component with ApexCharts showing Gantt diagram for understanding bottlenecks - Switch web part from CRA to Vite.js to accelerate compilation of the app in dev runtime
-        Skills: JavaScript · React.js · Apollo GraphQL · Node.js · Git · TypeScript · React · TypeORM · PostgreSQL · Express.js · Redis · Docker · GraphQL
+- Developed and maintained the whole ERP system application.
+- Developed features in web part using React and TypeScript.
+- Developed forms in web part using Formik.
+- Implemented queries in web part using Apollo GraphQL.
+- Enhanced user experience with UI components in web part using MaterialUI in collaboration with UX-designer.
+- Developed business logic in server part using TypeScript, TypeORM, GraphQL.
+- Developed migrations for database in server part using TypeORM.
+- Maintained Docker containers for development runtime.
 
-Web-разработчик @ Self Employed
-сентябрь 2023 – май 2024, 9 месяцев
+Achievements:
+- Drag-n-drop for elements on kanban-board for better UX with planning.
+- Implementation component with ApexCharts showing Gantt diagram for understanding bottlenecks.
+- Switch web part from CRA to Vite.js to accelerate compilation of the app in dev runtime.
 
-Frontend-разработчик @ JS Corporation
-июнь 2020 – май 2021, 1 год
+**Full-stack Developer at H-Energy**<br>
+Cheboksary, Chuvashia, Russia (Remote) | Sep 2023 - May 2024 | 9 mos<br>
+
+- Developed the whole web server application for stand-alone device.
+- Developed UI in web part using React and TypeScript.
+- Implemented queries in web part using ReactQuery (TanStack) and Axios.
+- Developed REST API in server part using Node.js, Express.js.
+- Implemented communication with 3rd party software using Node.js.
+
+**Junior Frontend-developer at JS Corporation**<br>
+Moscow, Russia (Remote) | Jun 2020 – May 2021 | 1 yr<br>
+
+- Developed UI in web part using React and JavaScript.
+- Enhanced user experience with UI components in web part in collaboration with UX-designer.
+
+Achievements:
+- Made the project all by myself.
 
 ---
 
 ### Skills and Proficiency:
-
-- Docker
-- Typescript
-        - Node.JS (back-end)
-        - Express.js (back-end)
-        - TypeORM (back-end)
-        - TypeGraphQL (back-end)
-        - ApolloServer (back-end)
-        - PostgreSQL (back-end)
-        - Redis (back-end)
-        - Websockets (back-end, front-end)
-        - React.js (front-end)
-        - Apollo Client (front-end)
-        - Ag-Grid (front-end)
-        - ApexCharts (front-end)
-        - Material-UI (front-end)
-        - Formik (front-end)
-        - Date-fns (front-end)
-        - Yup (front-end)
-        - ReactFlow (front-end)
-        - Recoil (front-end)
-        - Vite.js (front-end)
-- HTML5, CSS3
-- JavaScript Basics
-- Git, GitHub
-- VS Code, IntelliJ IDEA
-- Adobe Photoshop, Illustrator, InDesign
+**Programming Languages**: JavaScript · TypeScript · Python · SQL
+**Frameworks**: React.js · GraphQL · REST API · Axios · ReactQuery · Apollo · TypeORM · MaterialUI · Ag-Grid · ApexCharts · Recoil · Yup · Formik · Date-fns · Websockets · Jest · Node.js · Express.js · TypeGraphQL · Recoil.js · Redux
+**Tools**: Git · Jira · Vite.js · Webpack · PostgreSQL · Redis · Docker · Bash
 
 ---
 
-### Code example:
+<!-- ### Code example:
 
 **Peak array index KATA from CODEWARS:**
 *Given an array of ints, return the index such that the sum of the elements to the right of that index equals the sum of the elements to the left of that index. If there is no such index, return -1. If there is more than one such index, return the left-most index.*
@@ -89,24 +73,21 @@ function peak(arr) {
   return -1;
 }
 ```
----
+--- -->
 
-### Courses:
+<!-- ### Courses:
 
 - HTML and CSS Tutorials on the [w3schools](https://www.w3schools.com/) (completed)<br>
 ![W3Schools Score](/images/w3schools-score.jpg)<br>
 - JavaScript Manual on [learnjavascript.ru](https://learn.javascript.ru/) (in progress)
 - RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 
----
+--- -->
 
 ### Languages:
 
-- English \- Intermediate/Upper-intermediate (according to the online test at ![EFset Logo](/images/efset-logo.png) [www.efset.org](https://www.efset.org/quick-check))<br>
-![EFset Score](/images/efset-english-level.jpg)
+- English \- Intermediate/Upper-intermediate
 - Russian \- Native
-- Ukrainian \- Intermediate
-- Polish \- Basic
 
 <!--
 **bor1eu/bor1eu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
