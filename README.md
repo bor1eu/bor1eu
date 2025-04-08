@@ -48,10 +48,37 @@ Achievements:
 
 ---
 
+### Projects:
+
+**Conductor**
+*ERP-system web application built to help companies organize and monitor their production.*
+
+* Built with React, TypeScript, MaterialUI, Ag-Grid, ApexCharts and Formik, providing an enhanced user experience with intuitive UI.
+* Integrated Recoil for state management and Apollo GraphQL to handle API requests.
+* Utilized Jest for unit tests to ensure code quality and reliablity.
+
+**MPUWeb**
+*A stand-alone embedded web server application.*
+
+* Built with React and TypeScript, providing an enhanced user experience with intuitive UI.
+* Integrated Recoil for state management and Axios with ReactQuery to handle API requests.
+
+**Webots**
+*Web application to help authors with social networks.*
+
+* Built with React and JavaScript to give clean user experience.
+
+**FitForYou**
+*Marketplace web app for local tailors.*
+
+* Built with React and JavaScript for good user experience.
+
+---
+
 ### Skills and Proficiency:
-**Programming Languages**: JavaScript · TypeScript · Python · SQL
-**Frameworks**: React.js · GraphQL · REST API · Axios · ReactQuery · Apollo · TypeORM · MaterialUI · Ag-Grid · ApexCharts · Recoil · Yup · Formik · Date-fns · Websockets · Jest · Node.js · Express.js · TypeGraphQL · Recoil.js · Redux
-**Tools**: Git · Jira · Vite.js · Webpack · PostgreSQL · Redis · Docker · Bash
+**Programming Languages**: JavaScript · TypeScript · Python · SQL<br>
+**Frameworks**: React.js · GraphQL · REST API · Axios · ReactQuery · Apollo · TypeORM · MaterialUI · Ag-Grid · ApexCharts · Recoil · Yup · Formik · Date-fns · Websockets · Jest · Node.js · Express.js · TypeGraphQL · Recoil.js · Redux<br>
+**Tools**: Git · Jira · Vite.js · Webpack · PostgreSQL · Redis · Docker · Bash<br>
 
 ---
 
